@@ -1,0 +1,32 @@
+#skin{
+    border: 3px dashed steelblue;
+    border-radius: 10px;
+    width: 700px;
+    text-align: center;
+    margin: 100px auto;
+    padding: 15px 0px;
+}
+nav{
+    /* border: 1px solid red; */
+    margin-top: 10px;
+}
+button{
+    text-transform: capitalize;
+    width: 100px;
+}
+#defaultBar{
+    border: 1px solid #777;
+    border-radius: 3px;
+    width: 615px;
+    height: 18px;
+    margin-top: 10px;
+    padding: 2px;
+
+    position: relative;
+    left: 39px;
+}
+#progress{
+    width: 0px;
+    height: 18px;
+    background: #ccc;
+}
